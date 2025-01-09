@@ -85,4 +85,4 @@ Data Storage and Retrieval: Store and efficiently retrieve large amounts of data
 Data Management: Ensure data consistency, accuracy, and integrity.
 Access Control: Restrict unauthorized access and provide multi-user access control.
 Data Organization: Structure data logically to make it easily accessible and manageable.
-Data Analysis: Provide tools for querying and analyzing data.
+Data Analysis: Provide tools for querying and analyzing data 
